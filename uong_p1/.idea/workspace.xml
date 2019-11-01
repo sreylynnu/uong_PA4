@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9063390e-179c-4591-9497-598122bf93cc" name="Default Changelist" comment="" />
+    <list default="true" id="7d630c16-6c67-4222-b9e3-38fb9f1b595f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uong_p1/ArithmeticStudy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArithmeticStudy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uong_p2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uong_p2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uong_p2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uong_p2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uong_p2/out/production/uong_p2/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uong_p2/out/production/uong_p2/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uong_p2/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uong_p2/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uong_p2/src/SavingsAccount.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +27,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SLeraHnZFD9vooAxpe41R8W6vK" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T27zNqqBfVhxITGNxbvGmqsVDE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -29,8 +50,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ArithmeticStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArithmeticStudy" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="uong_p1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -38,7 +59,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArithmeticStudy" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -47,12 +68,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9063390e-179c-4591-9497-598122bf93cc" name="Default Changelist" comment="" />
-      <created>1571347502752</created>
+      <changelist id="7d630c16-6c67-4222-b9e3-38fb9f1b595f" name="Default Changelist" comment="" />
+      <created>1572646597705</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571347502752</updated>
+      <updated>1572646597705</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

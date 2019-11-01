@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3b16b92-f9b0-48c9-bca2-9f86104584aa" name="Default Changelist" comment="" />
+    <list default="true" id="4930e018-8787-4831-92e8-6ee9a8629e70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../uong_p1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uong_p1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uong_p1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uong_p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uong_p1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uong_p1/out/production/uong_p1/ArithmeticStudy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uong_p1/src/ArithmeticStudy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uong_p2/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/uong_p2/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SavingsAccount.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +27,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SLfQhEXcEaLz7bWStP1uCkkWs1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T29wVuiYSq7JtxVx2lL0L5F6oX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -47,12 +68,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a3b16b92-f9b0-48c9-bca2-9f86104584aa" name="Default Changelist" comment="" />
-      <created>1571347781493</created>
+      <changelist id="4930e018-8787-4831-92e8-6ee9a8629e70" name="Default Changelist" comment="" />
+      <created>1572647561952</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571347781493</updated>
+      <updated>1572647561952</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
